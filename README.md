@@ -1,7 +1,7 @@
 # scarletknights1
 
 
-[Jets](Jets.png)
+![Jets](Jets.png)
 
 ## This is a picture of the New York Jets Logo 
 
